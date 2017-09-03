@@ -13,10 +13,6 @@ phototaker
 	Visual Studio 2017
 	OpenCV 3.1.0
 
-# How to use
-
-솔루션 파일 Phototaker.sln 
-
 # Results
 
 ![result](media/results.PNG)
